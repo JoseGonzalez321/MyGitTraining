@@ -2,4 +2,4 @@
 This is fun
 
 ##Practice Practice
-Practice makes perfect. But practice even when you don't seem to getting nowhere.
+Practice even when you don't seem to be getting nowhere.
